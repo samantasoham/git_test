@@ -1,0 +1,1 @@
+Hi, I'm practicing Git and Github following the instructions from The Odin Project.
